@@ -13,6 +13,9 @@ A549 | H3K4me2 | ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ
  
    При анализе Fastqc подрезание прочтений и фильтрация не потребовалось, так как большинство разделов в Summary отмечены, как корректно выполненные. 
    Summary
+
+
+
      ENCFF507YIE
    
     <img width="181" alt="image" src="https://github.com/npoisoned/hw2_2024/assets/90446751/86fdf1de-7b6c-401a-9222-5c9cb961d6ea">
